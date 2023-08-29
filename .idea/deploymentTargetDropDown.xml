@@ -22,15 +22,6 @@
               <type value="RUNNING_DEVICE_TARGET" />
               <deviceKey>
                 <Key>
-                  <type value="VIRTUAL_DEVICE_PATH" />
-                  <value value="$USER_HOME$/.android/avd/Pixel_Tablet_API_UpsideDownCake.avd" />
-                </Key>
-              </deviceKey>
-            </Target>
-            <Target>
-              <type value="RUNNING_DEVICE_TARGET" />
-              <deviceKey>
-                <Key>
                   <type value="SERIAL_NUMBER" />
                   <value value="adb-1dda641a-g1HGNg._adb-tls-connect._tcp." />
                 </Key>
