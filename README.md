@@ -23,4 +23,4 @@ The App utilizes Smack XMPP library to establish a connection to an XMPP server 
 
 ## Final Notes
 - The app is not fully tested and there are some bugs that need to be fixed due to lack of time.
-- The app is built on Android Studio Hedgehog 2020.3.1 Canary 16 and AGP 8.2.0-alpha15
+- The app was used on Android Studio Hedgehog 2020.3.1 Canary 16 and AGP 8.2.0-alpha15
