@@ -2,7 +2,7 @@
 This is a Kotlin-based android application developed as part of an interview project. It is a simple app that provides a convenient way to implement real-time messaging functionality.
 The App utilizes Smack XMPP library to establish a connection to an XMPP server and send/receive messages. The app also uses the Room Persistence Library to store messages locally into a database.
 
-## Features
+### Features
 - [x] Login/Logout
 - [x] Realtime Send/Receive messages
 - [x] Store messages locally
@@ -11,7 +11,7 @@ The App utilizes Smack XMPP library to establish a connection to an XMPP server 
 - [x] Simple, Clean and Modern UI
 - [x] Notifications
 
-## Tech Stack
+### Tech Stack
 - [x] Kotlin
 - [x] MVVM
 - [x] Room Persistence Library
@@ -21,5 +21,5 @@ The App utilizes Smack XMPP library to establish a connection to an XMPP server 
 - [x] Jetpack Compose
 - [x] Work Manager
 
-## Final Notes
+### Final Notes
 - The app is not fully tested and there are some bugs that need to be fixed due to lack of time.
