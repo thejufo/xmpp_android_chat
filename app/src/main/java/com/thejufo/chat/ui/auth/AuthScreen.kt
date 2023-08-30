@@ -106,8 +106,8 @@ private fun AuthScreen(
   onLogin: (Pair<String, String>) -> Unit = {}
 ) {
 
-  var username by remember { mutableStateOf("901092505722") }
-  var password by remember { mutableStateOf("uriNrCiy5ZO/B4ulFVY1zPejWWQ0OppKP9yfaMK9Hkr7/0w5byjn0ezM7cl4tjNuNJyMarXkQwvg1a+jeb7j+g==") }
+  var username by remember { mutableStateOf("") }
+  var password by remember { mutableStateOf("") }
   var keepLoggedIn by remember { mutableStateOf(true) }
 
   val scrollState = rememberScrollState()
